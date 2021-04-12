@@ -10,6 +10,7 @@ public class Main {
         ManagerNhanVien luc = new ManagerNhanVien(nhanviens);
         luc.display();
         luc.totalsalary1();
+        luc.totalsalaryOfNVPartTime();
 
     }
 
